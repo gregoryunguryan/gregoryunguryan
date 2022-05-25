@@ -1,6 +1,6 @@
 [![Header](https://github.com/gregoryunguryan/gregoryunguryan/blob/main/assets/header-img.jpg)](https://vk.com/feed)
 
-About me
+## I'am beginner Youtuber and Software Engeneer
 
 Lates YouTube Videos
 
